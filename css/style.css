@@ -1,0 +1,73 @@
+body{
+    background-image: url('css/adventure.JPG');
+    background-color: #e5e4d7;
+	margin: 0px;
+	font-family: verdana, Georgia, serif;
+	font-size: 14px;
+}
+
+
+
+.head{
+    background-color: #ffffff;
+    margin: 10px;
+    text-align: center;
+    color: blue;
+    border-radius: 5px;
+    height: 80px;
+    background-image: url('/Week1/img/adventure.JPG');
+}
+/* story title */
+#title{
+    margin: 10px;
+    color:darkred;
+
+}
+/* story content */
+.content{
+    margin: 10px;
+    background-color: #ffffff;
+    font-size: 14px;
+    border-radius: 5px;
+    padding: 3px;
+}
+#end{
+    margin: 10px;
+    color:darkred;
+
+}
+img{
+    border: 1px solid #000000;
+    border-radius: 10px;
+    padding: 5px;
+
+}
+.choice{
+    color:rgb(174, 0, 255);
+    font-size: 18px;
+}
+
+
+/*Footer*/
+#footer{
+	
+    background-color: #cccccc;
+	margin: 10px;
+	height: 50px;
+	border-radius: 4px;
+	clear: both;
+	color: #000000;
+	text-align: center;
+	padding: 15px;
+	font-size: 90%;
+}
+.author{
+	 float: right;
+     width: 20%;
+     border: 0px solid #999933;	
+}
+.copyright{
+	float: left;
+	color: 000000;	
+	
+}
